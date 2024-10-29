@@ -1,0 +1,10 @@
+td, th, table  {
+    border: 1px solid #020202;
+    text-align: left;
+    padding: 8px;
+} 
+
+h2 {
+    color: rgb(23, 17, 199);
+    text-align: center;
+}
